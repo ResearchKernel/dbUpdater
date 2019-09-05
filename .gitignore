@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+.vscode/settings.json
+neo4j/.vscode/settings.json
+data/2017-01-01full.csv
